@@ -1,3 +1,4 @@
+<!-- ======= BANNER ======= -->
 <p align="center">
   <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -13,7 +14,7 @@
     </text>
     <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
           font-size="26" fill="white">
-      Full-Stack Developer (MERN)
+      Full-Stack Developer 
     </text>
   </svg>
 </p>
