@@ -61,14 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
-
----
-
-⭐ If you like my projects, don't forget to star the repository!
-
