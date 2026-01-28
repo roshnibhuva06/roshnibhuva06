@@ -91,7 +91,6 @@ I am a highly motivated **Full-Stack Developer** specializing in the **MERN Stac
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 💬 **Ask me about:** React state management, RESTful APIs, or modern CSS.
-- 📫 **Direct Reach:** your-email@gmail.com
 - ⚡ **Fun Fact:** I spend an unhealthy amount of time choosing the perfect hex code for my UI components.
 
 
