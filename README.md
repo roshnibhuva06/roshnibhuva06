@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshni</h1>
-<h3 align="center">🚀 Full Stack Web Developer</h3>
-
----
+<h3 align="center">🚀 Full Stack Web Developer</h
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Nikunj%20Rana&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
@@ -12,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikunj-rana-7ba712319"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/roshni-bhuva-7ba712319"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:8891nikunjrana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/@RanaNikunj64846"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
