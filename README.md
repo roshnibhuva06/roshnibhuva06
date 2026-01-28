@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Web Developer</h
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Nikunj%20Rana&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Roshni%20Bhuva&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/roshni-bhuva-7ba712319"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:8891nikunjrana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/@RanaNikunj64846"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/roshni-bhuva"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
 ---
@@ -67,12 +67,12 @@ I am a highly motivated **Full-Stack Developer** specializing in the **MERN Stac
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunj1112&show_icons=true&theme=tokyonight&border_radius=10" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&layout=compact&theme=tokyonight&border_radius=10" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshnibhuva&show_icons=true&theme=tokyonight&border_radius=10" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnibhuva&layout=compact&theme=tokyonight&border_radius=10" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikunj1112&theme=tokyonight&border_radius=10" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshnibhuva&theme=tokyonight&border_radius=10" width="80%" />
 </p>
 
 ---
@@ -90,8 +90,7 @@ I am a highly motivated **Full-Stack Developer** specializing in the **MERN Stac
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 💬 **Ask me about:** React state management, RESTful APIs, or modern CSS.
-- 📫 **Direct Reach:** 8891nikunjrana@gmail.com
+- 📫 **Direct Reach:** your-email@gmail.com
 - ⚡ **Fun Fact:** I spend an unhealthy amount of time choosing the perfect hex code for my UI components.
 
 <p align="right">(<a href="#top">Back to top ↑</a>)</p>
-
