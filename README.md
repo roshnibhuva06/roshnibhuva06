@@ -94,4 +94,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 📫 **Direct Reach:** your-email@gmail.com
 - ⚡ **Fun Fact:** I spend an unhealthy amount of time choosing the perfect hex code for my UI components.
 
-<p align="right">(<a href="#top">Back to top ↑</a>)</p>
+
