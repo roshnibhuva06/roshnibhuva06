@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roshni</h1>
-<h3 align="center">🚀 Full Stack Web Developer</h3>
-
 
 <p align="center">
+  <h1 align="center">Hi 👋, I'm Roshni</h1>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Roshni%20Bhuva&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=20" />
 </p>
 
