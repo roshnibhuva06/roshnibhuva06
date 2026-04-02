@@ -31,6 +31,7 @@ I am a highly motivated **Full-Stack Developer** specializing in the **MERN Stac
 ## 🛠️ Technical Ecosystem
 
 <table width="100%">
+  
   <tr>
     <td width="50%" valign="top">
       <h4>🎨 Frontend Engineering</h4>
