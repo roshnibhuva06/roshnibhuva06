@@ -11,7 +11,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/roshni-bhuva"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+ <a href="https://spectacular-sfogliatella-033e8e.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
