@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/roshni-bhuva"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
 </p>
 
 ---
@@ -91,5 +91,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 💬 **Ask me about:** React state management, RESTful APIs, or modern CSS.
 - ⚡ **Fun Fact:** I spend an unhealthy amount of time choosing the perfect hex code for my UI components.
-
-
